@@ -1,22 +1,19 @@
 {
-  "name": "dev.sleightly.template",
-  "displayName": "JS-Template",
-  "version": "0.0.0",
-  "description": "A VPM Package Template",
-  "url": "https://github.com/JustSleightly/JS-Template",
-  "vpmDependencies": {
-    "com.vrchat.avatars": "^3.8.0"
-  },
+  "name": "com.tohruthedragon.savereminder",
+  "displayName": "TohruTheDragon - Save Reminder",
+  "version": "1.0.0",
+  "description": "Reminds you to save your project",
+  "url": "https://github.com/fkrisi11/SaveReminder",
+  "vpmDependencies": {},
   "type": "tool",
   "keywords": [
-    "JustSleightly",
-    "Sleightly",
-    "VRChat",
-    "Template"
+     "TohruTheDragon",
+     "VRChat",
+     "Unity",
+     "Save",
+     "Reminder"
   ],
   "author": {
-    "name": "JustSleightly",
-    "email": "just@sleightly.dev",
-    "url": "https://just.sleightly.dev"
+    "name": "TohruTheDragon"
   }
 }
